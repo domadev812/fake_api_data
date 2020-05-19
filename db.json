@@ -7,5 +7,38 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "dashboard": {
+    "customer_count": 150,
+    "total_money": 89203.34,
+    "shows_map": 74908,
+    "clicks_day": 9810,
+    "clicks_navigate": 52,
+    "clicks_phone": 62,
+    "clicks": 60,
+    "views": 440,
+    "transactions": [
+      { "index": 1, "value": 130 },
+      { "index": 5, "value": 120 },
+      { "index": 10, "value": 50 },
+      { "index": 15, "value": 80 },
+      { "index": 20, "value": 180 },
+      { "index": 25, "value": 120 },
+      { "index": 30, "value": 170 },
+      { "index": 35, "value": 60 },
+      { "index": 40, "value": 86 },
+      { "index": 45, "value": 119 },
+      { "index": 50, "value": 108 },
+      { "index": 55, "value": 156 },
+      { "index": 60, "value": 172 },
+      { "index": 65, "value": 45 },
+      { "index": 70, "value": 170 },
+      { "index": 75, "value": 98 },
+      { "index": 80, "value": 77 },
+      { "index": 85, "value": 152 },
+      { "index": 90, "value": 120 },
+      { "index": 95, "value": 90 },
+      { "index": 100, "value": 80 }
+    ]
   }
 }
