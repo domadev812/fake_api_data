@@ -48,22 +48,6 @@
       "specificDays": ["mon", "tue", "sun"],
       "isCategory": false,
       "productCategory": null
-    },
-    {
-      "id": 2,
-      "name": "Product2",
-      "description": "This is the description for the product2.",
-      "type": "private",
-      "sellingPrice": 15,
-      "wholeSalePrice": 120,
-      "discountType": "amount",
-      "discountValue": 15,
-      "isImageDisplay": true,
-      "imgUrl": "https://www.roadcube.com/images/product_images/test3_63648_655866_imageProduct.png",
-      "isSpecificDaysDisplay": false,
-      "specificDays": null,
-      "isCategory": true,
-      "productCategory": "category1"
     }
   ],
   "productsGroup": [
