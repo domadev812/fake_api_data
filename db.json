@@ -82,7 +82,7 @@
       "productCategory": null
     }
   ],
-  "transactions": [
+  "allTransactions": [
     {
       "id": 1,
       "user": "User1",
