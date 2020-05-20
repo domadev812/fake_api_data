@@ -48,6 +48,16 @@
       "specificDays": ["mon", "tue", "sun"],
       "isCategory": false,
       "productCategory": null
+    },
+    {
+      "id": 2,
+      "name": "Product2",
+      "description": "This is the description for the product2.",
+      "type": "private",
+      "sellingPrice": 15,
+      "wholeSalePrice": 120,
+      "discountType": "percentage",
+      "discountValue": 4.5
     }
   ],
   "productsGroup": [
@@ -97,28 +107,10 @@
       "bank": "Bank3",
       "date": "2020-05-03",
       "status": "pending"
-    },
-    {
-      "id": 4,
-      "user": "User4",
-      "amount": 40,
-      "product": "Product4",
-      "bank": "Bank4",
-      "date": "2020-05-04",
-      "time": "16:48:04",
-      "license_plate": "15641500930",
-      "receipt_number": "15641500931",
-      "points": 350,
-      "status": "paid"
-    },
-    {
-      "id": 5,
-      "user": "User5",
-      "amount": 50,
-      "product": "Product5",
-      "bank": "Bank1",
-      "date": "2020-05-05",
-      "status": "pending"
     }
+  ],
+  "viewUserPoints": [
+    { "telephone": "15641500926", "points": 250 },
+    { "telephone": "15641500927", "points": 350 }
   ]
 }
