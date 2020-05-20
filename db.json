@@ -1,7 +1,4 @@
 {
-  "profile": {
-    "name": "typicode"
-  },
   "dashboard": {
     "customer_count": 150,
     "total_money": 89203.34,
@@ -99,70 +96,6 @@
       "specificDays": null,
       "isCategory": false,
       "productCategory": null
-    },
-    {
-      "id": 5,
-      "name": "Product5",
-      "description": "This is the description for the product5.",
-      "type": "public",
-      "sellingPrice": 55,
-      "wholeSalePrice": 125,
-      "discountType": "percentage",
-      "discountValue": 5.5,
-      "isImageDisplay": false,
-      "imgUrl": null,
-      "isSpecificDaysDisplay": true,
-      "specificDays": ["mon", "tue", "sun"],
-      "isCategory": false,
-      "productCategory": null
-    },
-    {
-      "id": 6,
-      "name": "Product6",
-      "description": "This is the description for the product6.",
-      "type": "private",
-      "sellingPrice": 16,
-      "wholeSalePrice": 126,
-      "discountType": "amount",
-      "discountValue": 6.6,
-      "isImageDisplay": true,
-      "imgUrl": "https://www.roadcube.com/images/product_images/test3_63648_655866_imageProduct.png",
-      "isSpecificDaysDisplay": false,
-      "specificDays": null,
-      "isCategory": true,
-      "productCategory": "category1"
-    },
-    {
-      "id": 7,
-      "name": "Product7",
-      "description": "This is the description for the product7.",
-      "type": "public",
-      "sellingPrice": 70,
-      "wholeSalePrice": 170,
-      "discountType": "percentage",
-      "discountValue": 7.7,
-      "isImageDisplay": true,
-      "imgUrl": "https://www.roadcube.com/images/product_images/test3_63648_655866_imageProduct.png",
-      "isSpecificDaysDisplay": true,
-      "specificDays": ["mon", "wed", "sat"],
-      "isCategory": true,
-      "productCategory": "category2"
-    },
-    {
-      "id": 8,
-      "name": "Product8",
-      "description": "This is the description for the product8.",
-      "type": "private",
-      "sellingPrice": 8,
-      "wholeSalePrice": 80,
-      "discountType": "percentage",
-      "discountValue": 0,
-      "isImageDisplay": false,
-      "imgUrl": null,
-      "isSpecificDaysDisplay": false,
-      "specificDays": null,
-      "isCategory": false,
-      "productCategory": null
     }
   ],
   "productsGroup": [
@@ -207,48 +140,6 @@
       "specificDays": ["mon", "wed", "sat"],
       "isCategory": true,
       "productCategory": "category2"
-    },
-    {
-      "id": 4,
-      "name": "ProductGroup4",
-      "description": "This is the description for the productgroup4.",
-      "targetPrice": 4.4,
-      "discountType": "percentage",
-      "discountValue": 0,
-      "isImageDisplay": false,
-      "imgUrl": null,
-      "isSpecificDaysDisplay": false,
-      "specificDays": null,
-      "isCategory": false,
-      "productCategory": null
-    },
-    {
-      "id": 5,
-      "name": "ProductGroup5",
-      "description": "This is the description for the productgroup5.",
-      "targetPrice": 55,
-      "discountType": "percentage",
-      "discountValue": 5.5,
-      "isImageDisplay": false,
-      "imgUrl": null,
-      "isSpecificDaysDisplay": true,
-      "specificDays": ["mon", "tue", "sun"],
-      "isCategory": false,
-      "productCategory": null
-    },
-    {
-      "id": 6,
-      "name": "ProductGroup6",
-      "description": "This is the description for the productgroup6.",
-      "targetPrice": 16,
-      "discountType": "amount",
-      "discountValue": 6.6,
-      "isImageDisplay": true,
-      "imgUrl": "https://www.roadcube.com/images/product_images/test3_63648_655866_imageProduct.png",
-      "isSpecificDaysDisplay": false,
-      "specificDays": null,
-      "isCategory": true,
-      "productCategory": "category1"
     }
   ],
   "transactions": [
