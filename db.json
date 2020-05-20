@@ -314,5 +314,15 @@
       "isCategory": true,
       "productCategory": "category1"
     }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "status": "paid"
+    }
   ]
 }
