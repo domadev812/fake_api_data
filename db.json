@@ -48,6 +48,22 @@
       "specificDays": ["mon", "tue", "sun"],
       "isCategory": false,
       "productCategory": null
+    },
+    {
+      "id": 2,
+      "name": "Product2",
+      "description": "This is the description for the product2.",
+      "type": "private",
+      "sellingPrice": 15,
+      "wholeSalePrice": 120,
+      "discountType": "amount",
+      "discountValue": 15,
+      "isImageDisplay": true,
+      "imgUrl": "https://www.roadcube.com/images/product_images/test3_63648_655866_imageProduct.png",
+      "isSpecificDaysDisplay": false,
+      "specificDays": null,
+      "isCategory": true,
+      "productCategory": "category1"
     }
   ],
   "productsGroup": [
@@ -64,6 +80,53 @@
       "specificDays": ["tue", "thur", "fri"],
       "isCategory": false,
       "productCategory": null
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1,
+      "user": "User1",
+      "amount": 10,
+      "product": "Product1",
+      "bank": "Bank1",
+      "date": "2020-05-01",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "user": "User2",
+      "amount": 20,
+      "product": "Product2",
+      "bank": "Bank2",
+      "date": "2020-05-02",
+      "status": "paid"
+    },
+    {
+      "id": 3,
+      "user": "User3",
+      "amount": 30,
+      "product": "Product3",
+      "bank": "Bank3",
+      "date": "2020-05-03",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "user": "User4",
+      "amount": 40,
+      "product": "Product4",
+      "bank": "Bank4",
+      "date": "2020-05-04",
+      "status": "paid"
+    },
+    {
+      "id": 5,
+      "user": "User5",
+      "amount": 50,
+      "product": "Product5",
+      "bank": "Bank1",
+      "date": "2020-05-05",
+      "status": "pending"
     }
   ]
 }
