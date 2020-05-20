@@ -83,6 +83,10 @@
       "product": "Product2",
       "bank": "Bank2",
       "date": "2020-05-02",
+      "time": "10:48:04",
+      "license_plate": "15641500926",
+      "receipt_number": "15641500927",
+      "points": 300,
       "status": "paid"
     },
     {
@@ -101,6 +105,10 @@
       "product": "Product4",
       "bank": "Bank4",
       "date": "2020-05-04",
+      "time": "16:48:04",
+      "license_plate": "15641500930",
+      "receipt_number": "15641500931",
+      "points": 350,
       "status": "paid"
     },
     {
