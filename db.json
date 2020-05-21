@@ -55,9 +55,7 @@
       "description": "This is the description for the product2.",
       "type": "private",
       "sellingPrice": 15,
-      "wholeSalePrice": 120,
-      "discountType": "percentage",
-      "discountValue": 4.5
+      "wholeSalePrice": 120
     }
   ],
   "productsGroup": [
