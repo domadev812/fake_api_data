@@ -47,7 +47,8 @@
       "isSpecificDaysDisplay": true,
       "specificDays": ["mon", "tue", "sun"],
       "isCategory": false,
-      "productCategory": null
+      "productCategory": null,
+      "points": 100,
     },
     {
       "id": 2,
@@ -55,7 +56,8 @@
       "description": "This is the description for the product2.",
       "type": "private",
       "sellingPrice": 15,
-      "wholeSalePrice": 120
+      "wholeSalePrice": 120,
+      "points": 200,
     }
   ],
   "productsGroup": [
