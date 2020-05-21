@@ -48,7 +48,7 @@
       "specificDays": ["mon", "tue", "sun"],
       "isCategory": false,
       "productCategory": null,
-      "points": 100,
+      "points": 100
     },
     {
       "id": 2,
@@ -57,7 +57,7 @@
       "type": "private",
       "sellingPrice": 15,
       "wholeSalePrice": 120,
-      "points": 200,
+      "points": 200
     }
   ],
   "productsGroup": [
